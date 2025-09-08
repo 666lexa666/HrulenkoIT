@@ -19,7 +19,7 @@ const Footer = () => {
         <div className="container mx-auto px-4">
           <div className="grid md:grid-cols-2 gap-8">
             <div>
-              <div className="text-2xl font-bold mb-4">HRULENKO IT</div>
+              <div className="text-2xl font-bold mb-4">KHRULENKO IT</div>
               <div className="text-gray-300 space-y-1 text-sm">
                 <p>© 2025 ИП Хруленко Алексей Юрьевич</p>
                 <p>ИНН: 612302771736</p>
