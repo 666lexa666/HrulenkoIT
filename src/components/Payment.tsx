@@ -11,30 +11,30 @@ const Payment = () => {
               Оплата услуг
             </h2>
             <p className="text-xl text-gray-600">
-              Прозрачная система оплаты по времени работы
+              Прозрачные условия и удобные способы оплаты
             </p>
           </div>
           
           <div className="grid md:grid-cols-2 gap-8">
-            {/* Тарификация */}
+            {/* Консультация и расчёт */}
             <div className="bg-white p-8 rounded-xl shadow-lg">
               <div className="flex items-center gap-3 mb-6">
                 <div className="p-3 bg-blue-100 rounded-lg">
                   <CreditCard className="text-blue-600" size={24} />
                 </div>
-                <h3 className="text-2xl font-bold text-gray-900">Тарификация</h3>
+                <h3 className="text-2xl font-bold text-gray-900">Консультация</h3>
               </div>
               
               <div className="space-y-4">
                 <div className="p-4 bg-blue-50 rounded-lg">
-                  <div className="text-3xl font-bold text-blue-600 mb-2">15 ₽</div>
-                  <div className="text-gray-700">за 1 секунду работы</div>
+                  <div className="text-3xl font-bold text-blue-600 mb-2">3000 ₽</div>
+                  <div className="text-gray-700">за консультацию с подробным расчётом</div>
                 </div>
                 
                 <div className="text-sm text-gray-600 space-y-2">
-                  <p>• Оплата только за фактически затраченное время</p>
-                  <p>• Минимальная предоплата определяется объемом задачи</p>
-                  <p>• Подробный отчет по времени работы</p>
+                  <p>• В рамках консультации вы получаете оценку стоимости и сроков</p>
+                  <p>• Стоимость выполнения работ рассчитывается индивидуально</p>
+                  <p>• Окончательная цена зависит от объёма и сложности задачи</p>
                 </div>
               </div>
             </div>
