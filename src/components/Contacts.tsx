@@ -22,19 +22,11 @@ const Contacts = () => {
               </div>
               <h3 className="text-lg font-semibold text-gray-900 mb-2">Email</h3>
               <a 
-                href="mailto:ella.hrulenko@yandex.ru"
+                href="mailto:aleksejhrulenko71@gmail.com"
                 className="text-blue-600 hover:text-blue-700 transition-colors"
               >
-                ella.hrulenko@yandex.ru
+                aleksejhrulenko71@gmail.com
               </a>
-            </div>
-            
-            <div className="text-center p-6 bg-blue-50 rounded-xl">
-              <div className="p-4 bg-blue-100 rounded-full w-fit mx-auto mb-4">
-                <Phone className="text-blue-600" size={32} />
-              </div>
-              <h3 className="text-lg font-semibold text-gray-900 mb-2">Телефон</h3>
-              <p className="text-gray-600">По запросу</p>
             </div>
             
             <div className="text-center p-6 bg-blue-50 rounded-xl">

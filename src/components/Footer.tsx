@@ -98,8 +98,7 @@ const Footer = () => {
             <p>ИНН: 612302771736</p>
             <p>ОГРНИП: 324619600265134</p>
             <p>Юридический адрес: Ростовская область, Неклиновский район, село Андреево-Мелентьево, Первомайский переулок, 39А</p>
-            <p>Email: ella.hrulenko@yandex.ru</p>
-            <p>Телефон: (будет добавлен позже)</p>
+            <p>Email: aleksejhrulenko71@gmail.com</p>
           </div>
         </div>
       </Modal>
@@ -121,7 +120,7 @@ const Footer = () => {
             <li>Хранятся на защищённых серверах, срок — не более 3 лет.</li>
           </ul>
           
-          <p>По вопросам конфиденциальности: ella.hrulenko@yandex.ru</p>
+          <p>По вопросам конфиденциальности: aleksejhrulenko71@gmail.com</p>
         </div>
       </Modal>
 
@@ -142,7 +141,7 @@ const Footer = () => {
             <li>Срок хранения: до момента отзыва.</li>
           </ul>
           
-          <p>Email для связи: ella.hrulenko@yandex.ru</p>
+          <p>Email для связи: aleksejhrulenko71@gmail.com</p>
         </div>
       </Modal>
     </>
