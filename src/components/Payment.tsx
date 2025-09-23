@@ -47,6 +47,30 @@ const Payment = () => {
                 </div>
                 <h3 className="text-2xl font-bold text-gray-900">Способы оплаты</h3>
               </div>
+              <div className="flex gap-4">
+                <div className="w-14 h-14">
+                  <img
+                    src="/images/mir.svg"
+                    alt="Мир"
+                    className="w-full h-full object-contain"
+                  />
+                </div>
+                <div className="w-14 h-14">
+                  <img
+                    src="/images/sbp.svg"
+                    alt="SBP"
+                    className="w-full h-full object-contain"
+                  />
+                </div>
+                <div className="w-14 h-14">
+                  <img
+                    src="/images/pay.svg"
+                    alt="Paymaster"
+                    className="w-full h-full object-contain"
+                  />
+                </div>
+              </div>
+
               
               <div className="space-y-4">
                 <div className="p-4 border-2 border-blue-200 rounded-lg bg-blue-50">
